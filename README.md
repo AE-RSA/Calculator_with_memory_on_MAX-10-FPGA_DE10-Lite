@@ -27,7 +27,6 @@ This repository contains the Verilog implementation of a basic calculator module
 - calculator.v: Main Verilog module implementing the calculator functionality.
 - seven_segment_display.v: Module for driving the 7-segment display.
 - calculator_tb.v: Testbench for simulation and verification.
-- constraints.qsf: Pin assignments and constraints for the DE10-Lite FPGA board.
 - README.md: Documentation for the project.
 
 ## Functional Description
