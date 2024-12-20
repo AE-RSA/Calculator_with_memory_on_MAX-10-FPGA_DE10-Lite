@@ -86,5 +86,5 @@ The functionality of the calculator was successfully verified on the MAX 10 DE10
 5. Use switches to provide input values and verify results on the 7-segment display.
 
 ## Author
-[Rohan K](https://github.com/vaibruce) .
+[Rohan K](https://github.com/vaibruce)  
 (Trainee at Ramaiah Skill Academy)
