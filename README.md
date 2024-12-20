@@ -87,4 +87,4 @@ The functionality of the calculator was successfully verified on the MAX 10 DE10
 
 ## Author
 [Rohan K](https://github.com/vaibruce)
-Trainee at Ramaiah Skill Academy
+-Trainee at Ramaiah Skill Academy
